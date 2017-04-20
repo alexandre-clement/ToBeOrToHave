@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">To Be or to Have</string>
+    <string name="develop">Develop</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="develop_menu_image">Develop the menu</string>
+    <string name="home">Home</string>
+    <string name="stock">Stock</string>
+    <string name="settings">Settings</string>
+    <string name="home_text">Home sweet home</string>
+    <string name="default_message">Welcome in the To be or To Have application!</string>
+    <string name="settings_text">Some settings here !</string>
+    <string name="stock_text">Good stuff !</string>
 </resources>
