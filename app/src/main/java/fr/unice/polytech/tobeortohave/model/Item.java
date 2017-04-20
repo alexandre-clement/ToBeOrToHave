@@ -1,8 +1,5 @@
 package fr.unice.polytech.tobeortohave.model;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @author Alexandre Clement
  *         Created the 20/04/2017.
@@ -10,10 +7,10 @@ import java.util.List;
 
 public class Item
 {
-    public static enum Category
+    public enum Category
     {
         BOOK,
-        DVD;
+        DVD
     }
 
     private final int id;
