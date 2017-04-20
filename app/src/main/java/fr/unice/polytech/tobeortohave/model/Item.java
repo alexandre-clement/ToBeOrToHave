@@ -7,18 +7,11 @@ package fr.unice.polytech.tobeortohave.model;
 
 public class Item
 {
-    public enum Category
-    {
-        BOOK,
-        DVD
-    }
-
     private final int id;
     private final String name;
     private final Category category;
     private final double price;
     private final String description;
-
     public Item(int id, String name, Category category, double price, String description)
     {
         this.id = id;
@@ -51,5 +44,11 @@ public class Item
     public String getDescription()
     {
         return description;
+    }
+
+    public enum Category
+    {
+        BOOK,
+        DVD
     }
 }
