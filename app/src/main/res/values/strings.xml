@@ -11,4 +11,5 @@
     <string name="default_message">Welcome in the To be or To Have application!</string>
     <string name="settings_text">Some settings here !</string>
     <string name="stock_text">Good stuff !</string>
+    <string name="item_image_descr">Item image</string>
 </resources>

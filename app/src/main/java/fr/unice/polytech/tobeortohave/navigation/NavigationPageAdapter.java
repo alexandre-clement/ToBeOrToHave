@@ -1,9 +1,14 @@
-package fr.unice.polytech.tobeortohave;
+package fr.unice.polytech.tobeortohave.navigation;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.util.SparseArrayCompat;
+
+import fr.unice.polytech.tobeortohave.R;
+import fr.unice.polytech.tobeortohave.home.HomeFragment;
+import fr.unice.polytech.tobeortohave.settings.SettingsFragment;
+import fr.unice.polytech.tobeortohave.stock.StockFragment;
 
 /**
  * @author Alexandre Clement
